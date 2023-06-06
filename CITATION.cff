@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Autobiographical Memory Text Analysis Code
+message: >-
+  This includes LDA topic modelling and sentence embedding
+  analysis used for autobiographical memory descriptions
+type: software
+authors:
+  - given-names: Signy
+    family-names: Sheldon
+    email: signy.sheldon@mcgill.ca
+    affiliation: McGill University
+  - given-names: Jay
+    family-names: Sheldon
+    email: jaysheldon1@gmail.com
+  - given-names: Shirley
+    family-names: Zhang
+    email: wenlansz@student.ubc.ca
+    affiliation: McGill University
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/signysheldon/Autobiographical-Memory-Text-Analysis-Code-.git
+repository-code: >-
+  https://github.com/signysheldon/Autobiographical-Memory-Text-Analysis-Code-.git
